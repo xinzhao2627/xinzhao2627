@@ -34,7 +34,7 @@
 - **[Japanese Dataset](https://github.com/xinzhao2627/japanese-sentences-dataset)** - Extracted 1.7+ million JP data vocabulary and sentences from tatoeba and JMDict
 - **[Angular Anki Deck](https://github.com/xinzhao2627/angular-anki-deck)** - Stylized AngularJS reviewer in anki format
 
-#### Machine Learning Stuff
+#### Machine Learning Projects
 
 - **[Spotify Prediction](https://github.com/xinzhao2627/SpotPredict)** - Predicts song popularity using Decision Tree and Random Forest Regression
 - **[Pong-RL](https://github.com/xinzhao2627/pong-rl)** - Trained different models to win a game of pong using Deep Q-Network (DQN) and Proximal Policy Optimization (PPO)
