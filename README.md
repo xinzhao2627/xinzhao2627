@@ -39,7 +39,7 @@
 - **[Spotify Prediction](https://github.com/xinzhao2627/SpotPredict)** - Predicts song popularity using Decision Tree and Random Forest Regression
 - **[Pong-RL](https://github.com/xinzhao2627/pong-rl)** - Trained different models to win a game of pong using Deep Q-Network (DQN) and Proximal Policy Optimization (PPO)
 - **[GCash Review Clusters](https://github.com/xinzhao2627/GCASH-CCADMACL)** - Find useful GCash PlayStore reviews using unsupervised clustering algorithms
-- **[NSFW Censorship](https://github.com/xinzhao2627/THESIS-R)** - Real-time censorship of explicit images and text on android using deep learning models.
+- **[NSFW Censorship](https://github.com/xinzhao2627/THESIS-R)** - Real-time censorship of explicit images and text on android using YOLO v5, v8, v10, v11 models, along with NLP variants (RoBERTa, LSTM, DOST-RoBERTa).
 
 #### Some School Projects
 
