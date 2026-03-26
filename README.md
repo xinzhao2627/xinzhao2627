@@ -58,8 +58,8 @@
 
 ### Certificates and Recognition
 
-- **[Japanese Language Proficiency Test (JLPT) N4](https://github.com/xinzhao2627/jlpt-results/blob/main/Result_n4.pdf)** on January, 2026
-- Completed Harvard's **[CS50X](https://certificates.cs50.io/945cf1a5-8654-4be4-8925-b62970ffd7a1.pdf?size=letter)** on December, 2023
+- **[Japanese Language Proficiency Test (JLPT) N4](https://github.com/xinzhao2627/jlpt-results/blob/main/Result_n4.pdf)** Passed with high distinction, placing in the 88.6th percentile nationwide. Demonstrated strong Japanese proficiency across vocabulary, reading comprehension, and grammar.
+- Completed Harvard's **[CS50X](https://certificates.cs50.io/945cf1a5-8654-4be4-8925-b62970ffd7a1.pdf?size=letter)** on December, 2023. Spent 100 hours learning C, Python & Flask, SQL, and web development.
 
 ### Media
 
