@@ -30,7 +30,7 @@
 - **[Jiyuu Desktop](https://jiyuublocker.vercel.app/)** - Persistent website blocker and time tracker for windows
 - **[Jiyuu Extension](https://github.com/xinzhao2627/jiyuu)** - Extension Connector for Jiyuu. Supports 10 browsers including **Chrome, Mozilla, Edge, Brave, Vivaldi, and Opera**
 - **[Reddit-to-Postgres](https://github.com/xinzhao2627/reddit-to-postgres)** - Extract comments and posts without using the Reddit API
-- **[Automate Spinning Wheel](https://github.com/xinzhao2627/automatespinningwheel)** - Mod for **Stardew Valley** spinning wheel so you dont have to click endlessly on Fall 16, over 200 downloads!
+- **[Automate Spinning Wheel](https://github.com/xinzhao2627/automatespinningwheel)** - Mod for **Stardew Valley** spinning wheel so you dont have to click endlessly on Fall 16, over 300 downloads!
 - **[Japanese Dataset](https://github.com/xinzhao2627/japanese-sentences-dataset)** - Extracted 1.7+ million JP data vocabulary and sentences from tatoeba and JMDict
 - **[Angular Anki Deck](https://github.com/xinzhao2627/angular-anki-deck)** - Stylized AngularJS reviewer in anki format
 
