@@ -1,6 +1,6 @@
 # Hi there👋 I'm Rainnand P. Montaniel
 
-📍 **Manila, Philippines** | 🎓 **Student at NU-Manila** | 🚀 **CS Major (Machine Learning)**
+📍 **Manila, Philippines** | 🎓 **Full Stack Engineer** | 🚀 **CS Major (Machine Learning)**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
