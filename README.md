@@ -24,7 +24,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## Current Projects
+## Check out my projects
 
 - [Remon](https://remonjp.vercel.app/) - Practice Tool for Japanese Language Proficiency Test (JLPT) takers, **Internationally Recognized**
 - [Jiyuu Desktop](https://jiyuublocker.vercel.app/) - **Over 1000 downloads & SourceForge Awardee**, persistent website blocker and time tracker for windows
@@ -33,37 +33,18 @@
 - [Automate Spinning Wheel](https://github.com/xinzhao2627/automatespinningwheel) - **Over 450 downloads**, a mod for Stardew Valley spinning wheel so you dont have to click endlessly on Fall 16, created with C#
 - [Japanese Dataset](https://github.com/xinzhao2627/japanese-sentences-dataset) - Extracted 1.7+ million JP data vocabulary and sentences from tatoeba and JMDict
 - [Angular Anki Deck](https://github.com/xinzhao2627/angular-anki-deck) - Stylized AngularJS reviewer in anki format
-
-#### Machine Learning Projects
-
-- [NSFW Censorship - THESIS](https://github.com/xinzhao2627/THESIS-R) - Real-time censorship of explicit images and text on android using YOLO v5, v8, v10, v11 models, along with NLP variants (RoBERTa, LSTM, DOST-RoBERTa).
+- [NSFW Censorship - THESIS](https://github.com/xinzhao2627/THESIS-R) - Real-time censorship of explicit images and text on android using YOLO v5, v8, v10, v11 models, along with NLP variants (RoBERTa, LSTM, DOST-RoBERTa)
 - [Spotify Prediction](https://github.com/xinzhao2627/SpotPredict) - Predicts song popularity using Decision Tree and Random Forest Regression
 - [Pong-RL](https://github.com/xinzhao2627/pong-rl) - Trained different models to win a game of pong using Deep Q-Network (DQN) and Proximal Policy Optimization (PPO)
 - [GCash Review Clusters](https://github.com/xinzhao2627/GCASH-CCADMACL) - Find useful GCash PlayStore reviews using unsupervised clustering algorithms
-
-#### Some School Projects
-
 - [MALAS](https://github.com/xinzhao2627/MALAS/tree/main/malas) - Alternative authentication tool for Microsoft login systems, avoids password spray
 - [Barkadista](https://github.com/xinzhao2627/barkadista) - Computer monitoring systems for NU-Manila
 - [Graph Cycle Finder](https://github.com/xinzhao2627/DSA_GRAPH_PROJECT) - Find cycles on eulerian or hamiltonian graph data structures
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/xinzhao2627)
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Rainnand_Montaniel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rainnand-montaniel-2b1916260/)
-[![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xinzhao2627)
-
 ### Certificates and Recognition
 
-- **[Japanese Language Proficiency Test (JLPT) N4](https://github.com/xinzhao2627/jlpt-results/blob/main/Result_n4.pdf)** Passed with high distinction, placing in the 88.6th percentile nationwide. Demonstrated strong Japanese proficiency across vocabulary, reading comprehension, and grammar.
-- Completed Harvard's **[CS50X](https://certificates.cs50.io/945cf1a5-8654-4be4-8925-b62970ffd7a1.pdf?size=letter)** on December, 2023. Spent 100 hours learning C, Python & Flask, SQL, and web development.
-
-### Media
-
-- **[How to use Jiyuu Website Blocker](https://www.youtube.com/channel/UCwyvmKkHJWfaphKI-3uMQ8g)** - Covers most of Jiyuu's core functions to get your productivity started!
+- **[Japanese Language Proficiency Test (JLPT) N4](https://github.com/xinzhao2627/jlpt-results/blob/main/Result_n4.pdf)** Certified JLPT N4, placing in the 88th percentile worldwide. Demonstrated strong Japanese proficiency across vocabulary, reading comprehension, and grammar.
+- **[CS50X](https://certificates.cs50.io/945cf1a5-8654-4be4-8925-b62970ffd7a1.pdf?size=letter)** Harvard's Computer Science program on December, 2023. Covering C, Python & Flask, SQL, and web development.
 
 ### Trophies
 
