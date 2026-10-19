@@ -26,7 +26,7 @@
 
 ## Check out my projects
 
-- [Remon](https://remonjp.vercel.app/) - Practice Tool for Japanese Language Proficiency Test (JLPT) takers, **Internationally Recognized**
+- [Remon](https://remonjp.vercel.app/) - Japanese Language Proficiency Test (JLPT) takers practice tool, **Internationally Recognized**
 - [Jiyuu Desktop](https://jiyuublocker.vercel.app/) - **Over 1000 downloads & SourceForge Awardee**, persistent website blocker and time tracker for windows
 - [Jiyuu Extension](https://github.com/xinzhao2627/jiyuu) - Extension Connector for Jiyuu. Supports 10 browsers including **Chrome, Mozilla, Edge, Brave, Vivaldi, and Opera**
 - [Reddit-to-Postgres](https://github.com/xinzhao2627/reddit-to-postgres) - Extract comments and posts without using the Reddit API
@@ -34,12 +34,12 @@
 - [Japanese Dataset](https://github.com/xinzhao2627/japanese-sentences-dataset) - Extracted 1.7+ million JP data vocabulary and sentences from tatoeba and JMDict
 - [Angular Anki Deck](https://github.com/xinzhao2627/angular-anki-deck) - Stylized AngularJS reviewer in anki format
 - [NSFW Censorship - THESIS](https://github.com/xinzhao2627/THESIS-R) - Real-time censorship of explicit images and text on android using YOLO v5, v8, v10, v11 models, along with NLP variants (RoBERTa, LSTM, DOST-RoBERTa)
-- [Spotify Prediction](https://github.com/xinzhao2627/SpotPredict) - Predicts song popularity using Decision Tree and Random Forest Regression
-- [Pong-RL](https://github.com/xinzhao2627/pong-rl) - Trained different models to win a game of pong using Deep Q-Network (DQN) and Proximal Policy Optimization (PPO)
-- [GCash Review Clusters](https://github.com/xinzhao2627/GCASH-CCADMACL) - Find useful GCash PlayStore reviews using unsupervised clustering algorithms
-- [MALAS](https://github.com/xinzhao2627/MALAS/tree/main/malas) - Alternative authentication tool for Microsoft login systems, avoids password spray
-- [Barkadista](https://github.com/xinzhao2627/barkadista) - Computer monitoring systems for NU-Manila
-- [Graph Cycle Finder](https://github.com/xinzhao2627/DSA_GRAPH_PROJECT) - Find cycles on eulerian or hamiltonian graph data structures
+- [Spotify Prediction](https://github.com/xinzhao2627/SpotPredict) - Using Decision Tree and Random Forest Regression to predict song popularity
+- [Pong-RL](https://github.com/xinzhao2627/pong-rl) - Deep Q-Network (DQN) and Proximal Policy Optimization (PPO), trained models to win games on pong
+- [GCash Review Clusters](https://github.com/xinzhao2627/GCASH-CCADMACL) - Unsupervised Clustering Algorithms for finding useful playstore reviews
+- [MALAS](https://github.com/xinzhao2627/MALAS/tree/main/malas) - Password spray prevention, proposal for Microsoft's login feature
+- [Barkadista](https://github.com/xinzhao2627/barkadista) - Computer monitoring software for NU-Manila
+- [Graph Cycle Finder](https://github.com/xinzhao2627/DSA_GRAPH_PROJECT) - Eulerian or hamiltonian graph data structures visualizer and path finder
 
 ### Certificates and Recognition
 
